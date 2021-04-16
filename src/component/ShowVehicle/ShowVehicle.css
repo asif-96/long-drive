@@ -1,0 +1,18 @@
+.card-vehicle{
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    box-shadow: 2px -1px 22px -6px rgba(156, 56, 56, 0.75);
+}
+
+.card-vehicle:last-child{
+    margin-right: 0px;
+}
+
+.info{
+    display: flex;
+    justify-content: space-between;
+    color: #8e44ad;
+    font-weight: 600;
+}
